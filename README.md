@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Nikita, this is my repository with examples of my work: bug reports, test cases, checklists and other stuff. 
-Obsessed with learning something new and developing my skills.
+💬 About me: Obsessed with learning something new and developing my skills.
 I’m currently learning Python and looking forward to use it in automation.
 Also interested in load testing and other types of non-functional testing.
 
